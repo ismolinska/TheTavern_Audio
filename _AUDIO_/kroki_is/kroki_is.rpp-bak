@@ -1,0 +1,1070 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1773772845
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 0.42627161467519
+  ZOOM 140.75532579319966 0 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0.41916708776394 4.58241985775832
+  SELECTION2 0.41916708776394 4.58241985775832
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {685EB456-5168-4F83-937E-56EFFB04746A}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {B6135A87-EDB9-4F06-AAC0-155B953A72BD}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {A113B292-3B6C-49DA-9936-61524CECE75F}
+    NAME 234263__fewes__footsteps-wood
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A113B292-3B6C-49DA-9936-61524CECE75F}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.21655069423206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E354E82-A3D4-472E-8C98-B90E497A39F4}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {05A9D61D-5547-4033-A684-B4237F68C7AC}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 0.50562041834708
+      SNAPOFFS 0
+      LENGTH 0.2955280062461
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB016D77-B903-4744-833F-1721DFC52568}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0.87639339783327
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FDF0347-0315-4AFE-A312-507F907E8EC5}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 1.00048295545273
+      SNAPOFFS 0
+      LENGTH 0.24202724649465
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E5A12C5-08F4-4850-8B8C-DB06BACC8B00}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 1.37318616695388
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4EEE5595-1DC8-4E4A-91A2-27017C456B64}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 1.502517413386
+      SNAPOFFS 0
+      LENGTH 0.24229236784291
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F52DB29-9C34-4C3A-BD5A-92A8A407C675}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 2.29517223751157
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1EDEED93-D10E-4413-ACE6-73E94FB035FD}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 2.01172379214688
+      SNAPOFFS 0
+      LENGTH 0.29881510962042
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3013B2C-CACE-4DE3-A8F9-2F8E31943FE5}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 2.67939384987696
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFEBFDDB-70F3-4DB8-9ECA-967867FA1E9E}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 2.50300036883873
+      SNAPOFFS 0
+      LENGTH 0.35034425976489
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1FAAC4C-B3FC-4D0D-81BD-A031ED06E190}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 3.12720512407936
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA4BA42D-954B-4954-9B21-2D27D2FD3769}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 5.5797544038869
+      SNAPOFFS 0
+      LENGTH 0.28915003380471
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {557F308A-A596-4C48-B097-7D41B3C4B44D}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 1.79737959650184
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {70A1D6C4-B617-474E-B2CA-8991E0F78C4C}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+    <ITEM
+      POSITION 5.91683468278495
+      SNAPOFFS 0
+      LENGTH 0.22419365991084
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE777797-20C4-48F9-9211-5AAB35CE44EF}
+      IID 1
+      NAME 234263__fewes__footsteps-wood.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0.47386387208427
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {270A023E-63B2-4D4F-9A8D-F03B7243D34E}
+      <SOURCE VORBIS
+        FILE "234263__fewes__footsteps-wood.ogg"
+      >
+    >
+  >
+  <TRACK {704410D2-E7EE-46A7-B72D-458F92241AAB}
+    NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues
+    PEAKCOL 21455224
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {704410D2-E7EE-46A7-B72D-458F92241AAB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.49844849751946
+      SNAPOFFS 0
+      LENGTH 0.25101722896663
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {845972B1-7FC5-455C-83C4-8F91841C2071}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B50A9E07-38C0-415C-8A7A-4BFC940BD82E}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.00406891586654
+      SNAPOFFS 0
+      LENGTH 0.17929802069045
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C79158E4-EBEA-4262-8A53-5A25168B637B}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.77146444442168
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88481E22-EF0B-4FF6-8C9A-C6AF7E87A577}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.49534549255838
+      SNAPOFFS 0
+      LENGTH 0.2366733873114
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62440F3E-D79A-4E05-803A-35566489397B}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.65767962208524
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4857ABA5-C7AD-44A4-A8FA-5A31A5401447}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.00455187131927
+      SNAPOFFS 0
+      LENGTH 0.33349431848424
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5284513A-E698-4FEF-A52E-719DF70BC472}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.87021719740544
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {674D2BA7-C23C-4BF8-8939-47DA86EBD75F}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.49582844801111
+      SNAPOFFS 0
+      LENGTH 0.26536107062187
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AF6D7BF0-EC39-4BFB-ADB4-A2B7B20F90F6}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.51307002238272
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC82E3CD-0673-4C49-923A-AE12E3B9821F}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.99786290594438
+      SNAPOFFS 0
+      LENGTH 0.21515762482854
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E6371D13-4401-46F0-96C1-ED94E68D7C82}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.08420363908381
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E04E1D55-0618-4E59-8F92-058307B715BA}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.49272544305003
+      SNAPOFFS 0
+      LENGTH 0.34066623931187
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5874DCFE-3540-4223-9513-4A42236191ED}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.6230636120606
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3651D8C1-9F10-440F-9508-E38EE22EEC70}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 4.00193182181091
+      SNAPOFFS 0
+      LENGTH 0.27253299144949
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F275CE61-B5D2-4178-BBE4-905E0B232EB4}
+      IID 10
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 16.36990928903835
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0CCA3DFD-914A-4A60-82DF-34EF4D53AFAD}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+  >
+  <TRACK {81A88135-200E-4D9C-8D4C-EB75FE012890}
+    NAME 464520__galbenshire__footsteps_stone
+    PEAKCOL 31646434
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {81A88135-200E-4D9C-8D4C-EB75FE012890}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.50042118541052
+      SNAPOFFS 0
+      LENGTH 0.15187880335417
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B233FA64-D8AC-4AD1-9003-E63C90755627}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.44336221322239
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D5CF9EFF-FC60-4AE4-BD6A-300BCA6955A7}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.00019331610586
+      SNAPOFFS 0
+      LENGTH 0.09735820727831
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24AEC3D0-3A13-4AF2-992D-DC65227CDCA4}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.5807835673562
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9268D98E-7462-4788-B267-12A8DEDB87FD}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.49672017322525
+      SNAPOFFS 0
+      LENGTH 0.15966745993643
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B46ED429-8201-4A78-A9E1-A19193991103}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.76605320287447
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B02CEB5C-BE1A-4E27-8124-250037598A9B}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.99973757749652
+      SNAPOFFS 0
+      LENGTH 0.11488268458841
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C3215A5E-0432-45C9-857D-9E466B582404}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.92336902045534
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21AEEB64-F8AE-45EF-BEFC-086DF8649CC7}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.49415446650807
+      SNAPOFFS 0
+      LENGTH 0.23690497104389
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41CC472E-7F44-406D-8A8F-7AB0B2DEDFF0}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.13633659773102
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CD739010-1D9E-4FFE-A62B-781498AC75CA}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.99798372945681
+      SNAPOFFS 0
+      LENGTH 0.11228646572766
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A6848FF3-2844-4AB1-BB43-F50B3ACD0EFE}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 6.36532180739508
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {843FE96D-CB5C-43B1-8EDA-CABADAA396B8}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.49126531300026
+      SNAPOFFS 0.0058414924367
+      LENGTH 0.11293552044284
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F8A73260-F7AE-4F1C-A43C-5D0AEDAA033E}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7.54408238013935
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90E65C15-4FBC-4B0D-B441-CF2541611C9C}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.9996492075995
+      SNAPOFFS 0
+      LENGTH 0.08777844863897
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EA7057E-8E89-4F53-8885-9B72B0FC01AB}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.72651224854615
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A34FB48-7726-4601-918A-01E4C8A7A3D9}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.05305692838773
+      SNAPOFFS 0
+      LENGTH 0.22591550606997
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {829F738B-EF41-4CDA-9AD4-A6BD15515F17}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.85421921718975
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A798B5CB-3DB4-4F23-A0A7-32DCDB92F340}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.57023093931842
+      SNAPOFFS 0
+      LENGTH 0.19364186234569
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B98C10D6-7F7F-4EDF-B22F-BBCB56A99E40}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 10.95510906422913
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B60F3024-9DBF-49DB-962F-E87A95EE70CC}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 6.83200604952648
+      SNAPOFFS 0
+      LENGTH 0.25818914979426
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {32F6B24D-DCCF-479A-91AB-871F46282FBF}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 12.14206196119993
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A40D942C-6EBA-4067-8F4F-BFB0FD5CEC29}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.12964076387263
+      SNAPOFFS 0
+      LENGTH 0.34066623931186
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0A17597-FBE9-45FA-8A53-1CFE6FCFDE25}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.22860796658408
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0F46141-0AD9-44F1-847B-8D309141652D}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.53844025104687
+      SNAPOFFS 0
+      LENGTH 0.3550100809671
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AEA2B642-16B0-444F-9539-8D891ECDCEDC}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 14.43349066562392
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {562FA313-C020-4E46-ADEA-1A7312D9CBFA}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 7.96516954029014
+      SNAPOFFS 0
+      LENGTH 0.18646994151807
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD45D2BD-12D6-43CF-AB54-40C841DD80DF}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 15.6132716417671
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5A091F40-C7A3-4304-BB4B-57CC47E0209E}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.21977272967058
+      SNAPOFFS 0
+      LENGTH 0.2008137831733
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6403576D-7011-4ECE-9789-ADED8CDA2BEF}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 16.69981764715125
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56D2A16C-E439-4746-B019-6B65C40040D1}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.57478281063768
+      SNAPOFFS 0
+      LENGTH 0.17212609986283
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB3BAB06-D7E2-4778-827D-05D3C2E6181E}
+      IID 18
+      NAME 464520__galbenshire__footsteps_stone.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 18.13061585226107
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52B046F2-AEB7-43FE-A322-CFAC313D671B}
+      <SOURCE WAVE
+        FILE "464520__galbenshire__footsteps_stone.wav"
+      >
+    >
+  >
+  <TRACK {3DB1091C-4CAE-4970-A003-188240193717}
+    NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues
+    PEAKCOL 19346008
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3DB1091C-4CAE-4970-A003-188240193717}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.46889877614271
+      SNAPOFFS 0
+      LENGTH 0.29839013027876
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {38EEABAA-8D26-482D-9807-9CC1E6EA97C3}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D8E4EF60-242E-4E90-BD8C-5F7A18B00196}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 0.9875292406642
+      SNAPOFFS 0
+      LENGTH 0.28418107645013
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9855C543-8074-44CF-A029-7F8A7844DF7B}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.69798193179564
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F65981AA-8405-4EC5-8BFE-8184A25D7D2B}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.49195065136317
+      SNAPOFFS 0
+      LENGTH 0.23444938807135
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8BD54338-82A5-4A39-A6AE-35C7975B1E55}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 3.63751777856776
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D27A0403-BA86-4333-BD8F-26E0BD585C6E}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.98216300823965
+      SNAPOFFS 0
+      LENGTH 0.42627161467519
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B64E86C-07D2-4244-906A-EBEC9BF73C1D}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.83281659414501
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {721620BA-FD47-4C81-81C5-99C1BAE7E275}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.50079347276113
+      SNAPOFFS 0
+      LENGTH 0.32680823791765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FA84C3C6-3C86-4A53-9ED9-5AA370A3F641}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 8.48280513204245
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE5DF370-F9E4-44F0-99E7-E67EFEBF2388}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.01231941037136
+      SNAPOFFS 0
+      LENGTH 0.27707654953888
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D684304D-DA80-419E-AF10-DBFE2961FAF9}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 11.05464387391612
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04A668AB-DDED-442D-BB19-BE035BA9E617}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.50963629415909
+      SNAPOFFS 0
+      LENGTH 0.38364445320767
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C47C94C6-3E64-4284-8341-F420C1BCD263}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 13.59095998123351
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7C2CFC1-AF5D-4EE0-B2AD-ABE1850F629A}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.99984865103556
+      SNAPOFFS 0
+      LENGTH 0.5697975181786
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64BFABD8-27F7-4B34-B73D-B2819BC6E730}
+      IID 34
+      NAME 555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 16.31909831515474
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E046ABD4-A5E7-4EAD-8D55-9188138D62B8}
+      <SOURCE WAVE
+        FILE "555294__fmaudio__heavy-footsteps-on-staircase-landing-wearing-brogues.wav"
+      >
+    >
+  >
+>

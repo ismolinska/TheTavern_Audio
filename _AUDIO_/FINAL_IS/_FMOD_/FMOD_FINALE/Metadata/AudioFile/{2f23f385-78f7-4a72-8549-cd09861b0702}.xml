@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{2f23f385-78f7-4a72-8549-cd09861b0702}">
+		<property name="assetPath">
+			<value>PLAYER/metal/os_fall_metal_4.flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.30285416666666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2615113a-71e0-4e13-977d-786e38be8d0e}</destination>
+		</relationship>
+	</object>
+</objects>
