@@ -1,0 +1,495 @@
+<REAPER_PROJECT 0.1 "6.81/win64" 1777398629
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 6.39407422012789
+  ZOOM 140.7553257931996 0 0
+  VZOOMEX 5.68981504 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\ismolins\Documents\GitHub\TheTavern_Audio\_AUDIO_\FINAL_IS\PLAYER\stairs\os_footsteps_walk_chandelier_(6).flac"
+  RENDER_FMT 0 2 48000
+  RENDER_1X 0
+  RENDER_RANGE 2 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    Y2FsZhAAAAAFAAAA
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 6.39407422012789 7.27503555712329
+  SELECTION2 6.39407422012789 7.27503555712329
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {685EB456-5168-4F83-937E-56EFFB04746A}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {B6135A87-EDB9-4F06-AAC0-155B953A72BD}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {750A38C3-3FF0-4970-9B43-6BB1AA56BB57}
+    NAME freesound_community-wood-creaking-30692
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {750A38C3-3FF0-4970-9B43-6BB1AA56BB57}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 60.43395833333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B5F4674-0BB8-4095-B3F2-0A50075EB6EE}
+      IID 1
+      NAME freesound_community-wood-creaking-30692.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0EE001E-40DB-4E33-A244-AA89FA869E58}
+      <SOURCE MP3
+        FILE "freesound_community-wood-creaking-30692.mp3" 1
+      >
+    >
+  >
+  <TRACK {B400211A-60EE-441B-9307-4B209FB804A5}
+    NAME dragon-studio-footsteps-on-wood-397989
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B400211A-60EE-441B-9307-4B209FB804A5}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.19728874775956
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {531EA90B-2686-4076-8E61-2324444EFC98}
+      IID 11
+      NAME dragon-studio-footsteps-on-wood-397989.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.55928645007067
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AEFAC88-C61C-42B2-9D4E-8C01A4CAAD28}
+      <SOURCE MP3
+        FILE "dragon-studio-footsteps-on-wood-397989.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.50136681770089
+      SNAPOFFS 0
+      LENGTH 0.18642881669022
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {943E88E5-7D6A-4070-BB2C-370CAEC142BB}
+      IID 11
+      NAME dragon-studio-footsteps-on-wood-397989.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.09323306097956
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C4F4B6A4-AEA3-4759-8DCC-0AD63013A966}
+      <SOURCE MP3
+        FILE "dragon-studio-footsteps-on-wood-397989.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.99911365837867
+      SNAPOFFS 0
+      LENGTH 0.15746900050533
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AFD3AA21-800E-4382-9844-9223B4AC1165}
+      IID 11
+      NAME dragon-studio-footsteps-on-wood-397989.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.67242938467734
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFD5FBC3-F4F7-4C7A-BCFC-D5F0AD9DE052}
+      <SOURCE MP3
+        FILE "dragon-studio-footsteps-on-wood-397989.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.50229046459112
+      SNAPOFFS 0
+      LENGTH 0.16470895455156
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {304F6ACE-C3FA-4956-A163-53F78D692E84}
+      IID 11
+      NAME dragon-studio-footsteps-on-wood-397989.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.20999597260935
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BB6B7280-953E-44AA-AD6F-C8C0BD5C3747}
+      <SOURCE MP3
+        FILE "dragon-studio-footsteps-on-wood-397989.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.50140412296979
+      SNAPOFFS 0
+      LENGTH 0.22262858692133
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1E7DAFAB-E1C9-4644-9923-061E61F641A5}
+      IID 11
+      NAME dragon-studio-footsteps-on-wood-397989.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.25254935526535
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {706E7A0F-6A1B-43A8-A845-1AD21AA31C75}
+      <SOURCE MP3
+        FILE "dragon-studio-footsteps-on-wood-397989.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.99734097513602
+      SNAPOFFS 0
+      LENGTH 0.26244833417556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2EF9C230-DE67-4AA1-B236-B76794535849}
+      IID 11
+      NAME dragon-studio-footsteps-on-wood-397989.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.81545578235913
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {285C21DB-D6A9-479E-8B9E-F0500F24BF80}
+      <SOURCE MP3
+        FILE "dragon-studio-footsteps-on-wood-397989.mp3" 1
+      >
+    >
+  >
+  <TRACK {2DA656D8-B069-4A90-A8A5-06D2483B5796}
+    NAME freesound_community-chain-6073
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2DA656D8-B069-4A90-A8A5-06D2483B5796}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.56290642709378
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {204C5D90-D9D8-4E54-B58E-E596884EC6D7}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.08506946002601
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7304ED4-90C0-495A-8B0B-73EF70C57FF5}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.00273363540178
+      SNAPOFFS 0
+      LENGTH 0.53937657644356
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {13287B7C-36C8-425A-B1A6-DA572DF09040}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.56202008545535
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FFB56758-987E-4725-BA20-06B5C8C3FAF5}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.00184729378046
+      SNAPOFFS 0
+      LENGTH 0.41810734616934
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {B9341E51-21F5-4280-B844-082497E9965F}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.64439321536558
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8A9B7C8-814B-4434-942C-C0C317E3D12A}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.99734097513602
+      SNAPOFFS 0
+      LENGTH 0.635305967556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {865C8AF6-0641-4E7A-B765-A8319FDC85E4}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.55300744816647
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BE0D6CE0-74C5-4DD1-82E3-6C0E248F249D}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.00550457607247
+      SNAPOFFS 0
+      LENGTH 0.34751779421867
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D8EB3ADA-30F2-412C-9238-B6E4A7DF63FB}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.83990927988248
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CFF53601-906A-4541-BB45-69F46ADA42B3}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 4.83818282656344
+      SNAPOFFS 0
+      LENGTH 0.74597532568158
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {65487F97-0F99-4F20-B866-ADC3727E8BE5}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.73297694788289
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {52B67F34-B06A-4F9C-837F-2B8560EB72A7}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.39407422012789
+      SNAPOFFS 0
+      LENGTH 0.8809613369954
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {354208C5-ECDF-4625-AD38-E915F095910E}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.05630859682714
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E18976E2-BA61-4C95-B562-D29889F67938}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.92328580053404
+      SNAPOFFS 0
+      LENGTH 9.95721552688903
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DBD499C4-AB7E-4630-8717-211931B8694E}
+      IID 18
+      NAME freesound_community-chain-6073.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.47895227356448
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EA11F17-6625-4BE3-A01F-50DC61270416}
+      <SOURCE MP3
+        FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+  >
+>

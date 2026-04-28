@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{06af2c0b-50e6-437e-b681-d2792266c4da}">
+		<property name="assetPath">
+			<value>kaazoom-just-lute-medieval-lute-music-363314.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>118.88326530612245</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2615113a-71e0-4e13-977d-786e38be8d0e}</destination>
+		</relationship>
+	</object>
+</objects>
