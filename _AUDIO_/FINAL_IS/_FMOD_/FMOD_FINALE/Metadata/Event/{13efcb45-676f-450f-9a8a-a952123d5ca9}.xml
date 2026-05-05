@@ -56,7 +56,7 @@
 			<destination>{0a53b843-58e5-4076-a227-cfddd7ffee7a}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{84b1e2c5-aa09-45f5-88b9-80d3a33d87e8}</destination>
+			<destination>{808dcffa-2908-4cc8-ae54-a739546eb0b7}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{6e624adf-48c6-4d51-8b47-8ab19e12bf49}" />
@@ -114,9 +114,6 @@
 	<object class="EventMixerGroup" id="{88956ee6-c8db-42a5-8200-6a30bf385f08}">
 		<property name="color">
 			<value>Blue Light 2</value>
-		</property>
-		<property name="volume">
-			<value>-12</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>

@@ -81,7 +81,7 @@ MonoBehaviour:
   - {fileID: 5718223758307393905}
   MinDistance: 1
   MaxDistance: 20
-  Length: 496
+  Length: 880
 --- !u!114 &-6083983778187485445
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -152,10 +152,10 @@ MonoBehaviour:
   Path: _AUDIO_/FINAL_IS/_FMOD_/FMOD_FINALE/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639129922454128149
+  lastModified: 639136073588048091
   FileSizes:
   - Name: Desktop
-    Value: 1336
+    Value: 1448
   Exists: 1
 --- !u!114 &-2953505386692013455
 MonoBehaviour:
@@ -172,38 +172,11 @@ MonoBehaviour:
   Path: _AUDIO_/FINAL_IS/_FMOD_/FMOD_FINALE/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639129922454128149
+  lastModified: 639136073588022967
   FileSizes:
   - Name: Desktop
-    Value: 8296352
+    Value: 8482464
   Exists: 1
---- !u!114 &-1224850938911178832
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/MUSIC/1st_track
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
-  Path: event:/MUSIC/1st_track
-  Guid:
-    Data1: 863844992
-    Data2: 1243388472
-    Data3: 1442951844
-    Data4: 618226955
-  Banks:
-  - {fileID: -2953505386692013455}
-  IsStream: 1
-  Is3D: 0
-  IsOneShot: 0
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 161736
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -225,19 +198,19 @@ MonoBehaviour:
   - {fileID: -8516873627503139646}
   - {fileID: -6083983778187485445}
   - {fileID: -8777597311306057464}
-  - {fileID: -1224850938911178832}
-  - {fileID: 2315478044923161658}
   - {fileID: 8441462026119477833}
   - {fileID: 2256685965880289932}
   - {fileID: 5225956985462042762}
   - {fileID: -8881866048230745327}
+  - {fileID: 6037672524049690939}
+  - {fileID: 917575144668060899}
   EditorParameters: []
   MasterBanks:
   - {fileID: -2953505386692013455}
   StringsBanks:
   - {fileID: -3957108468523645006}
   cacheVersion: 131859
-  cacheTime: 639129922454128149
+  cacheTime: 639136073588048091
   SerializableEventsDict:
   - key: event:/PLAYER/Door/close
     index: 0
@@ -249,18 +222,45 @@ MonoBehaviour:
     index: 3
   - key: event:/AMBIENT/amb_forest
     index: 4
-  - key: event:/MUSIC/1st_track
-    index: 5
-  - key: event:/MUSIC/2nd_track
-    index: 6
   - key: event:/PLAYER/Movement/jump_down
-    index: 7
+    index: 5
   - key: event:/AMBIENT/amb_fire
-    index: 8
+    index: 6
   - key: event:/AMBIENT/amb_mice
-    index: 9
+    index: 7
   - key: event:/PLAYER/Door/open
+    index: 8
+  - key: event:/MUSIC/tracks
+    index: 9
+  - key: snapshot:/New Snapshot
     index: 10
+--- !u!114 &917575144668060899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: snapshot:/New Snapshot
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: snapshot:/New Snapshot
+  Guid:
+    Data1: -693396433
+    Data2: 1227609661
+    Data3: -1033217126
+    Data4: 1002970183
+  Banks:
+  - {fileID: -2953505386692013455}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 0
 --- !u!114 &1399658183510397402
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -315,33 +315,6 @@ MonoBehaviour:
   MinDistance: 1
   MaxDistance: 20
   Length: 70500
---- !u!114 &2315478044923161658
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
-  m_Name: event:/MUSIC/2nd_track
-  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
-  Path: event:/MUSIC/2nd_track
-  Guid:
-    Data1: -279283840
-    Data2: 1318787602
-    Data3: 1169737401
-    Data4: 831743956
-  Banks:
-  - {fileID: -2953505386692013455}
-  IsStream: 1
-  Is3D: 1
-  IsOneShot: 0
-  Parameters: []
-  MinDistance: 1
-  MaxDistance: 20
-  Length: 118883
 --- !u!114 &3452799325485492808
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -357,7 +330,7 @@ MonoBehaviour:
   Name: footsteps_switch
   StudioPath: 
   Min: 0
-  Max: 2
+  Max: 3
   Default: 0
   ID:
     data1: 302846257
@@ -368,6 +341,7 @@ MonoBehaviour:
   - STONE
   - WOOD
   - STAIRS
+  - CHANDELIER
   Exists: 1
 --- !u!114 &5225956985462042762
 MonoBehaviour:
@@ -411,7 +385,7 @@ MonoBehaviour:
   Name: footsteps_switch
   StudioPath: 
   Min: 0
-  Max: 2
+  Max: 3
   Default: 0
   ID:
     data1: 302846257
@@ -422,7 +396,35 @@ MonoBehaviour:
   - STONE
   - WOOD
   - STAIRS
+  - CHANDELIER
   Exists: 1
+--- !u!114 &6037672524049690939
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MUSIC/tracks
+  m_EditorClassIdentifier: FMODUnityEditor::FMODUnity.EditorEventRef
+  Path: event:/MUSIC/tracks
+  Guid:
+    Data1: 969070177
+    Data2: 1176091152
+    Data3: 880590527
+    Data4: -238156835
+  Banks:
+  - {fileID: -2953505386692013455}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 161736
 --- !u!114 &6465816348054676746
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -438,7 +440,7 @@ MonoBehaviour:
   Name: footsteps_switch
   StudioPath: 
   Min: 0
-  Max: 2
+  Max: 3
   Default: 0
   ID:
     data1: 302846257
@@ -449,6 +451,7 @@ MonoBehaviour:
   - STONE
   - WOOD
   - STAIRS
+  - CHANDELIER
   Exists: 1
 --- !u!114 &8441462026119477833
 MonoBehaviour:
@@ -477,4 +480,4 @@ MonoBehaviour:
   - {fileID: 3452799325485492808}
   MinDistance: 1
   MaxDistance: 20
-  Length: 690
+  Length: 880

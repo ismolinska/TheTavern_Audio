@@ -56,7 +56,7 @@
 			<destination>{7968ee66-b2dc-4fa4-abda-f24799881291}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{84b1e2c5-aa09-45f5-88b9-80d3a33d87e8}</destination>
+			<destination>{8302fe38-6a85-4878-86c1-709789c35fed}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{0f3e1d1e-ce39-44ed-9712-d84ebc6786be}" />
@@ -116,7 +116,7 @@
 			<value>Blue Light 1</value>
 		</property>
 		<property name="volume">
-			<value>7.5</value>
+			<value>-13.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>

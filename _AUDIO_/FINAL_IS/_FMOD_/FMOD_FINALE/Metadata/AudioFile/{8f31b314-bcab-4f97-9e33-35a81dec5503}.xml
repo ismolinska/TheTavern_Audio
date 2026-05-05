@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{8f31b314-bcab-4f97-9e33-35a81dec5503}">
+		<property name="assetPath">
+			<value>os_player jump_down_chandelier_ (4).flac</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.57189583333333338</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2615113a-71e0-4e13-977d-786e38be8d0e}</destination>
+		</relationship>
+	</object>
+</objects>

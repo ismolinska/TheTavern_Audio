@@ -153,9 +153,12 @@ public class Footsteps : MonoBehaviour
                 break;
 
             case "Stairs":
-                surfaceParameter = "Stairs";
+                surfaceParameter = "STAIRS";
                 break;
 
+            case "CHANDELIER":
+                surfaceParameter = "CHANDELIER";
+                break;
         }
 
         // Jeśli znaleziono pasujący parametr, odtwórz dźwięk.
