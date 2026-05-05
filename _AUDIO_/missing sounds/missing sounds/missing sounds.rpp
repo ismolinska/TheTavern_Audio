@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.81/win64" 1777398629
+<REAPER_PROJECT 0.1 "6.81/win64" 1777998909
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,13 +16,13 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 6.39407422012789
-  ZOOM 140.7553257931996 0 0
+  CURSOR 1.65246752481216
+  ZOOM 71.04526911253218 0 0
   VZOOMEX 5.68981504 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "" ""
   <RECORD_CFG
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\ismolins\Documents\GitHub\TheTavern_Audio\_AUDIO_\FINAL_IS\PLAYER\stairs\os_footsteps_walk_chandelier_(6).flac"
+  RENDER_FILE "C:\Users\ismolins\Documents\GitHub\TheTavern_Audio\_AUDIO_\FINAL_IS\PLAYER\wood\os_player jump_up_wood_ (5).flac"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -45,7 +45,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
-    Y2FsZhAAAAAFAAAA
+    Y2FsZhgAAAAFAAAA
   >
   LOCK 1
   <METRONOME 6 2
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 6.39407422012789 7.27503555712329
-  SELECTION2 6.39407422012789 7.27503555712329
+  SELECTION 0 9.57136215393757
+  SELECTION2 0 9.57136215393757
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -248,7 +248,7 @@
       >
     >
     <ITEM
-      POSITION 2.50140412296979
+      POSITION 1.96795395441714
       SNAPOFFS 0
       LENGTH 0.22262858692133
       LOOP 1
@@ -270,7 +270,7 @@
       >
     >
     <ITEM
-      POSITION 2.99734097513602
+      POSITION 2.44395725747111
       SNAPOFFS 0
       LENGTH 0.26244833417556
       LOOP 1
@@ -293,18 +293,18 @@
     >
   >
   <TRACK {2DA656D8-B069-4A90-A8A5-06D2483B5796}
-    NAME freesound_community-chain-6073
+    NAME "chandelier jump up"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 2 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -324,7 +324,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {204C5D90-D9D8-4E54-B58E-E596884EC6D7}
       IID 18
       NAME freesound_community-chain-6073.mp3
@@ -346,7 +346,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {13287B7C-36C8-425A-B1A6-DA572DF09040}
       IID 18
       NAME freesound_community-chain-6073.mp3
@@ -368,7 +368,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {B9341E51-21F5-4280-B844-082497E9965F}
       IID 18
       NAME freesound_community-chain-6073.mp3
@@ -390,7 +390,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {865C8AF6-0641-4E7A-B765-A8319FDC85E4}
       IID 18
       NAME freesound_community-chain-6073.mp3
@@ -412,7 +412,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {D8EB3ADA-30F2-412C-9238-B6E4A7DF63FB}
       IID 18
       NAME freesound_community-chain-6073.mp3
@@ -434,7 +434,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {65487F97-0F99-4F20-B866-ADC3727E8BE5}
       IID 18
       NAME freesound_community-chain-6073.mp3
@@ -456,7 +456,7 @@
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {354208C5-ECDF-4625-AD38-E915F095910E}
       IID 18
       NAME freesound_community-chain-6073.mp3
@@ -489,6 +489,611 @@
       GUID {2EA11F17-6625-4BE3-A01F-50DC61270416}
       <SOURCE MP3
         FILE "freesound_community-chain-6073.mp3" 1
+      >
+    >
+  >
+  <TRACK {3110899D-0D33-4AE4-B21F-92B6C03B14E8}
+    NAME "stair jump up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {3110899D-0D33-4AE4-B21F-92B6C03B14E8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.47950587503146
+      SNAPOFFS 0
+      LENGTH 0.39369956051461
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2A78D9CB-1F05-4164-A4E2-6FF743CE8C28}
+      IID 34
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {07865112-4783-49C3-BAC3-E6E06CD3BC24}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.00443862239115
+      SNAPOFFS 0
+      LENGTH 0.41893671185159
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F91B7117-D8A8-40A0-B392-6C9E7AF7D9CB}
+      IID 34
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 2.58933172503798
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00ADC2F2-C607-4A81-9608-BC23ED5A600D}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.50413421845509
+      SNAPOFFS 0
+      LENGTH 0.33313039737596
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E91F05D1-9620-451C-B1DF-4A5A43873553}
+      IID 34
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 24.68193398738001
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {141A26A0-126D-41D7-BA05-236E315FE58F}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.99878238425576
+      SNAPOFFS 0
+      LENGTH 0.29275095526978
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {778B41F6-1396-46F3-9A70-7CC5AB2F67E8}
+      IID 34
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 9.73144554756802
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A569C19-C707-4AE8-A457-8277F54A728C}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.46314596847679
+      SNAPOFFS 0
+      LENGTH 0.33817782763923
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDBD7CC6-0796-482E-A6B6-18DE6C3B581D}
+      IID 34
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 14.14794702793112
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56618062-BAFD-4932-BFD8-ABB746F7CC5D}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.99817357638364
+      SNAPOFFS 0
+      LENGTH 0.3078932460596
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C303BB95-DED9-4EB3-9134-3E04CA73382F}
+      IID 34
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 17.00479255694313
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F0D1542-3B64-4BDB-A563-A5492C4D3FF0}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 8.37873423703171
+      SNAPOFFS 0
+      LENGTH 3.61329433283202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E6D0104-0B92-4C91-8845-FE8A89478E84}
+      IID 34
+      NAME 554762__fmaudio__floor-creaking-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 42.44384108383462
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4799C03A-4520-4FCC-B115-812BF1AC219D}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\554762__fmaudio__floor-creaking-1.wav"
+      >
+    >
+  >
+  <TRACK {AE47A9B5-7140-4CAC-BEEE-D83852DA9873}
+    NAME "wood jump up"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {AE47A9B5-7140-4CAC-BEEE-D83852DA9873}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.50474302632721
+      SNAPOFFS 0
+      LENGTH 0.33313039737596
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F100704-5754-49D5-953C-59BE5D8307E7}
+      IID 56
+      NAME 557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.17666005921452
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E5113C03-BCF5-44C5-ABF3-47A1861E71EB}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.00443862239115
+      SNAPOFFS 0
+      LENGTH 0.32808296711269
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F5CED7B-FE7F-40F7-9DB1-0B285C923D40}
+      IID 56
+      NAME 557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.02967577371654
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD8BF39D-431D-4EC3-B204-2A4AE8A5A36B}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav"
+      >
+    >
+    <ITEM
+      POSITION 1.51927650924491
+      SNAPOFFS 0
+      LENGTH 0.42398414211486
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AB8ABEFF-441E-4F11-88F5-72C182E2A009}
+      IID 56
+      NAME 557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.81202746452372
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {384ACAE4-8176-47B9-8D12-396FE0F0CB0C}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.11487328031102
+      SNAPOFFS 0
+      LENGTH 0.38360470000868
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1947C56C-D70B-485C-87BC-0E97CBBE1587}
+      IID 56
+      NAME 557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7.46010192912521
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FFDA92C-D491-4136-851A-990493778243}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav"
+      >
+    >
+    <ITEM
+      POSITION 2.80637122637929
+      SNAPOFFS 0
+      LENGTH 0.3078932460596
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {52C0CE40-B9D4-4D91-9864-D2E1A1A2533B}
+      IID 56
+      NAME 557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 5.78435508171887
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9135064-D8E3-4607-95AF-6D22068DBD14}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav"
+      >
+    >
+    <ITEM
+      POSITION 3.42215771849849
+      SNAPOFFS 0
+      LENGTH 0.37350983948213
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ED026FDB-D4F7-4188-8709-23D3DE3F60BF}
+      IID 56
+      NAME 557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 7.08659208964307
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {88066B7F-3964-40ED-90F9-BFB356E538CE}
+      <SOURCE WAVE
+        FILE "C:\Users\ismolins\Downloads\557202__valentinpetiteau__wood-creak-squeak-flooring-parquet.wav"
+      >
+    >
+  >
+  <TRACK {1BBE8E8D-16F5-464A-BBA8-30CFB63E4BBC}
+    NAME freesound_community-chain-drop-106742
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 0.84084642809367 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1BBE8E8D-16F5-464A-BBA8-30CFB63E4BBC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0.45931615395776
+      SNAPOFFS 0
+      LENGTH 0.35836754869232
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1286976-0E16-4B5C-A544-CA2CBA395242}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.17161262895125
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7F949BD-A39A-4BA4-92E4-8217DCA8B132}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 0.99939119212788
+      SNAPOFFS 0
+      LENGTH 0.28770352500651
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {947720C4-5EF7-4E88-A89C-39B1E16493F9}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.96910661054825
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3109D91B-5F5C-4ACC-AA5F-8870F97BD889}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.48899192766527
+      SNAPOFFS 0
+      LENGTH 0.36846240921886
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AC3B4F14-9E7C-470A-A09A-3324E25A1597}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 1.7565057316187
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A700F56-72B1-480C-B875-71E4E702A6D4}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 1.99373495399248
+      SNAPOFFS 0
+      LENGTH 0.28265609474324
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8838FD9C-CB40-46E8-9C55-2B6525FB4B76}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 2.69532776058731
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3B81C20-2F8F-482C-9BAE-7BC394AC6F65}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.48838311979315
+      SNAPOFFS 0
+      LENGTH 0.27760866447997
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FF9B0B6C-46D0-4762-9EE5-092756579375}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 3.58872291718647
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {488A84EF-FE72-4350-B499-FDFE48D69789}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 2.99817357638364
+      SNAPOFFS 0
+      LENGTH 0.23218179211052
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EDF98476-BB8A-4D7F-B97F-B0CC652CE95E}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.48716550404891
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31EF11AA-E03E-48FB-B147-6F488333E8FD}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 5.00200339090266
+      SNAPOFFS 0
+      LENGTH 1.21643069344858
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9739A7E3-A1D8-44FD-BD8D-5CA2790AA75E}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 4.99695596063939
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {81B757AD-6BF8-4521-93B0-85DF19C7A1F3}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 6.21843408435124
+      SNAPOFFS 0
+      LENGTH 1.00443862239115
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {746703EF-EDB8-4B8F-AE54-A2D8453A5869}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 6.21338665408797
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A7758B3D-9AD7-4AFA-AFC6-92877549CE76}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 7.22287270674239
+      SNAPOFFS 0
+      LENGTH 0.87320543554608
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {930572DB-33B9-4522-9D2E-BB3B897702CA}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 7.21782527647912
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {423894A1-0F2D-4DAE-A864-92B8CB5ED50F}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 8.09607814228847
+      SNAPOFFS 0
+      LENGTH 0.96405918028497
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58350D6D-449F-4A7D-865A-DA94AFE0E826}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 8.0910307120252
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F8B85F02-04E2-4BA7-A222-C4582478B32F}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 9.71125582653555
+      SNAPOFFS 0
+      LENGTH 3.90686844102316
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B9B416A9-B0B4-45EE-A83C-751CA7D143B0}
+      IID 74
+      NAME freesound_community-chain-drop-106742.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 9.05508989231017
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1029533D-CD23-46B7-93FB-3FD92D7974CA}
+      <SOURCE MP3
+        FILE "C:\Users\ismolins\Downloads\freesound_community-chain-drop-106742.mp3" 1
       >
     >
   >

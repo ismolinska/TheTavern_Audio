@@ -30,7 +30,6 @@ public class Footsteps : MonoBehaviour
     {
         distToGround = GetComponent<Collider>().bounds.extents.y;
         
-        // Usunięto: Inicjalizację słownika.
     }
 
     void Update()
@@ -145,17 +144,18 @@ public class Footsteps : MonoBehaviour
             case "Stone":
             case "Inside_stone":
             case "Outside": // "Outside" również używa parametru "Stone"
-                surfaceParameter = "Stone";
+                surfaceParameter = "STONE";
                 break;
             
             case "Wood":
             case "Inside_wood":
-                surfaceParameter = "Wood";
+                surfaceParameter = "WOOD";
                 break;
 
-            case "Bed":
-                surfaceParameter = "Bed";
+            case "Stairs":
+                surfaceParameter = "Stairs";
                 break;
+
         }
 
         // Jeśli znaleziono pasujący parametr, odtwórz dźwięk.
@@ -164,7 +164,7 @@ public class Footsteps : MonoBehaviour
             soundInstance = RuntimeManager.CreateInstance(eventRef);
             soundInstance.set3DAttributes(RuntimeUtils.To3DAttributes(gameObject.transform));
             // Ustawia parametr FMOD na podstawie ustalonej wartości.
-            soundInstance.setParameterByNameWithLabel("Footsteps_surface", surfaceParameter); 
+            soundInstance.setParameterByNameWithLabel("footsteps_switch", surfaceParameter); 
             soundInstance.start();
             soundInstance.release();
         }
