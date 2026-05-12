@@ -1,9 +1,9 @@
-<REAPER_PROJECT 0.1 "6.81/win64" 1774977397
+<REAPER_PROJECT 0.1 "6.81/win64" 1776789301
   <NOTES 0 2
   >
   RIPPLE 0
   GROUPOVERRIDE 0 0 0
-  AUTOXFADE 1
+  AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
   MIXERUIFLAGS 11 48
@@ -16,13 +16,13 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 5.74902306986693
-  ZOOM 278.86532047290137 0 0
-  VZOOMEX 8.34722233 0
+  CURSOR 0.49969559606394
+  ZOOM 140.7553257932002 0 0
+  VZOOMEX 5.36574078 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4
   RECORD_PATH "" ""
   <RECORD_CFG
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\ismolins\Desktop\FINAL_IS\PLAYER\os_player jump_6.flac"
+  RENDER_FILE "C:\Users\ismolins\Downloads\drive-download-20260421T145309Z-3-001\FINAL_IS\PLAYER\wood\os_player jump_up_stone_1.flac"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 5.74902306986693 6.0335472157527
-  SELECTION2 5.74902306986693 6.0335472157527
+  SELECTION 0.49969559606394 0.89125610605412
+  SELECTION2 0.49969559606394 0.89125610605412
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -91,7 +91,7 @@
   <PROJBAY
   >
   <TRACK {13CE019D-12FB-40EB-8172-72BCDCE7C0AD}
-    NAME wood
+    NAME "jump down  wood"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -247,7 +247,7 @@
     >
   >
   <TRACK {DFAB3DF4-3103-4398-9972-507E59D3649E}
-    NAME stone
+    NAME "jump down stone"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -279,7 +279,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {FBB5885C-D149-49DF-95EE-B321EB5CED33}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -302,7 +302,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {84D7A8BA-437F-4183-AB4E-2BD850A61C2E}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -325,7 +325,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {9F98B42F-6015-4D3B-8756-020283FEF963}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -348,7 +348,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {72246D77-0CA6-4C35-9382-1C160A10B5F7}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -371,7 +371,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {CDE50FA9-07A6-4FF9-9AC1-0A90086F24D4}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -394,7 +394,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {95AAED9C-BD39-4B08-9AAF-C66D4F09B599}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -409,7 +409,7 @@
     >
   >
   <TRACK {D255D35C-FF16-4C14-B3EE-946B20A5E8B2}
-    NAME "jump up"
+    NAME "jump up stone"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -420,7 +420,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -432,7 +432,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0.1070015195029
+      POSITION 0.49969559606394
       SNAPOFFS 0
       LENGTH 0.39156050999018
       LOOP 1
@@ -441,7 +441,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {F95FF989-58E1-45F6-A6BB-6D4E89372E3E}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -455,7 +455,7 @@
       >
     >
     <ITEM
-      POSITION 1.17192140407938
+      POSITION 1.81707489477796
       SNAPOFFS 0
       LENGTH 0.45924977696059
       LOOP 1
@@ -464,7 +464,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {87C81B17-C406-4B7A-8DF9-29AA5EE6F8AC}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -478,7 +478,7 @@
       >
     >
     <ITEM
-      POSITION 2.37950998132639
+      POSITION 3.26063995007378
       SNAPOFFS 0
       LENGTH 0.47567649930011
       LOOP 1
@@ -487,7 +487,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {FE9BCEC0-8976-42A4-95C7-2B4F416DDA78}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -501,16 +501,16 @@
       >
     >
     <ITEM
-      POSITION 3.43933455545035
+      POSITION 4.82534333168813
       SNAPOFFS 0
-      LENGTH 0.49679276912061
+      LENGTH 0.49679276912062
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {6B799F31-EFBB-4183-AB1C-EFE6742870E6}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -524,7 +524,7 @@
       >
     >
     <ITEM
-      POSITION 4.56792438826126
+      POSITION 6.62727593567627
       SNAPOFFS 0
       LENGTH 0.49461347855966
       LOOP 1
@@ -533,7 +533,7 @@
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {17AC8DF9-E087-409E-AC98-378F542597A8}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
@@ -547,16 +547,16 @@
       >
     >
     <ITEM
-      POSITION 5.74902306986693
+      POSITION 8.62101088966875
       SNAPOFFS 0
-      LENGTH 0.28452414588577
+      LENGTH 0.28452414588578
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 1
+      SEL 0
       IGUID {4269D950-3DC9-434A-88E8-A046DBAD8069}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav

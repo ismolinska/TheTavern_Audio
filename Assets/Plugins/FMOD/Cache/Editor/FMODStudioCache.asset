@@ -152,7 +152,7 @@ MonoBehaviour:
   Path: _AUDIO_/FINAL_IS/_FMOD_/FMOD_FINALE/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 639136073588048091
+  lastModified: 639142106075815148
   FileSizes:
   - Name: Desktop
     Value: 1448
@@ -172,10 +172,10 @@ MonoBehaviour:
   Path: _AUDIO_/FINAL_IS/_FMOD_/FMOD_FINALE/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 639136073588022967
+  lastModified: 639142106075795557
   FileSizes:
   - Name: Desktop
-    Value: 8482464
+    Value: 8478176
   Exists: 1
 --- !u!114 &11400000
 MonoBehaviour:
@@ -210,7 +210,7 @@ MonoBehaviour:
   StringsBanks:
   - {fileID: -3957108468523645006}
   cacheVersion: 131859
-  cacheTime: 639136073588048091
+  cacheTime: 639142106075815148
   SerializableEventsDict:
   - key: event:/PLAYER/Door/close
     index: 0

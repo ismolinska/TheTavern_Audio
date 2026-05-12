@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.81/win64" 1776789301
+<REAPER_PROJECT 0.1 "6.81/win64" 1778597967
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0.49969559606394
-  ZOOM 140.7553257932002 0 0
+  CURSOR 8.71552852903378
+  ZOOM 198.1206173914984 0 0
   VZOOMEX 5.36574078 0
   USE_REC_CFG 0
   RECMODE 1
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\ismolins\Downloads\drive-download-20260421T145309Z-3-001\FINAL_IS\PLAYER\wood\os_player jump_up_stone_1.flac"
+  RENDER_FILE "C:\Users\ismolins\Documents\GitHub\TheTavern_Audio\_AUDIO_\FINAL_IS\PLAYER\stone\os_player jump_up_stone (6).flac"
   RENDER_FMT 0 2 48000
   RENDER_1X 0
   RENDER_RANGE 2 0 0 18 1000
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 0.49969559606394 0.89125610605412
-  SELECTION2 0.49969559606394 0.89125610605412
+  SELECTION 8.71552852903378 8.90553503555453
+  SELECTION2 8.71552852903378 8.90553503555453
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -122,7 +122,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {0890E5E9-0CB1-4AAA-9F07-06EC852F20DA}
       IID 2
       NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
@@ -144,7 +144,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {BFB50BA9-291F-43A4-A0B1-E69FB1C78038}
       IID 2
       NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
@@ -166,7 +166,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {051DDFA6-6054-4820-AE0D-02B0A4F4E0A8}
       IID 2
       NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
@@ -188,7 +188,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {00D00649-3AF9-4232-97B3-65ECAC7FC7FA}
       IID 2
       NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
@@ -210,7 +210,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {2521092E-A8A7-4C3F-A043-8F2EC80224AB}
       IID 2
       NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
@@ -232,7 +232,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {CD1FD3E4-350E-4A17-B29C-164823DC3497}
       IID 2
       NAME 148796__splicesound__footsteps-solid-wood-female-socks-jumping.wav
@@ -420,7 +420,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -432,21 +432,21 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 0.49969559606394
+      POSITION 0.54908408621762
       SNAPOFFS 0
-      LENGTH 0.39156050999018
+      LENGTH 0.3421720198365
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {F95FF989-58E1-45F6-A6BB-6D4E89372E3E}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 0.04938849015368
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {07A82575-5ADF-4238-8F73-9CC6626FFBD4}
@@ -455,21 +455,21 @@
       >
     >
     <ITEM
-      POSITION 1.81707489477796
+      POSITION 2.01373695320092
       SNAPOFFS 0
-      LENGTH 0.45924977696059
+      LENGTH 0.26258771853763
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {87C81B17-C406-4B7A-8DF9-29AA5EE6F8AC}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
       VOLPAN 1 0 1 -1
-      SOFFS 1.3700000000326
+      SOFFS 1.56666205845556
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {25906C53-8F2C-4AF3-8BB1-D3C912BE0853}
@@ -478,21 +478,21 @@
       >
     >
     <ITEM
-      POSITION 3.26063995007378
+      POSITION 3.41152243731931
       SNAPOFFS 0
-      LENGTH 0.47567649930011
+      LENGTH 0.32479401205458
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {FE9BCEC0-8976-42A4-95C7-2B4F416DDA78}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
       VOLPAN 1 0 1 -1
-      SOFFS 2.90000000003259
+      SOFFS 3.05088248727812
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {C5217CD5-9790-4078-879C-6DB7E06A2063}
@@ -501,21 +501,21 @@
       >
     >
     <ITEM
-      POSITION 4.82534333168813
+      POSITION 5.00476642519666
       SNAPOFFS 0
-      LENGTH 0.49679276912062
+      LENGTH 0.31736967561209
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {6B799F31-EFBB-4183-AB1C-EFE6742870E6}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
       VOLPAN 1 0 1 -1
-      SOFFS 4.38000000003259
+      SOFFS 4.55942309354112
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E797790F-1B7F-4471-ADC0-F3A9625E77EE}
@@ -524,21 +524,21 @@
       >
     >
     <ITEM
-      POSITION 6.62727593567627
+      POSITION 6.79346891683298
       SNAPOFFS 0
-      LENGTH 0.49461347855966
+      LENGTH 0.32842049740294
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {17AC8DF9-E087-409E-AC98-378F542597A8}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
       VOLPAN 1 0 1 -1
-      SOFFS 5.95000000003259
+      SOFFS 6.1161929811893
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {99AFF846-736B-4B45-809A-8E159BEB3178}
@@ -547,21 +547,21 @@
       >
     >
     <ITEM
-      POSITION 8.62101088966875
+      POSITION 8.71552852903378
       SNAPOFFS 0
-      LENGTH 0.28452414588578
+      LENGTH 0.19000650652075
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       BEAT 1
-      SEL 0
+      SEL 1
       IGUID {4269D950-3DC9-434A-88E8-A046DBAD8069}
       IID 17
       NAME 558477__nox_sound__footsteps_mountain_boots_rock_jump_sequence_mono.wav
       VOLPAN 1 0 1 -1
-      SOFFS 7.45000000003259
+      SOFFS 7.54451763939762
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {8A089120-3F7F-4B31-BEDF-706D0022712C}

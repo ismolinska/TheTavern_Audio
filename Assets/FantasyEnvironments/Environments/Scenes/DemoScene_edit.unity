@@ -2360,6 +2360,7 @@ GameObject:
   - component: {fileID: 613997990}
   - component: {fileID: 613997989}
   - component: {fileID: 613997994}
+  - component: {fileID: 613997995}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -2570,6 +2571,26 @@ MonoBehaviour:
     Path: event:/PLAYER/Movement/jump_down
   isGrounded: 1
   isJumping: 0
+--- !u!114 &613997995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613997984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d95e26b5cbbe94f93658dcf4aa33cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Outside_foot_switch
+  snapshotActivated: 0
+  outsideSnapshot:
+    Guid:
+      Data1: -693396433
+      Data2: 1227609661
+      Data3: -1033217126
+      Data4: 1002970183
+    Path: snapshot:/New Snapshot
 --- !u!1 &688602384
 GameObject:
   m_ObjectHideFlags: 0
@@ -5577,7 +5598,7 @@ GameObject:
   - component: {fileID: 1610884564}
   m_Layer: 7
   m_Name: Stone_2
-  m_TagString: Inside_stone
+  m_TagString: Stone
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7195,11 +7216,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 863844992
-      Data2: 1243388472
-      Data3: 1442951844
-      Data4: 618226955
-    Path: event:/MUSIC/1st_track
+      Data1: 969070177
+      Data2: 1176091152
+      Data3: 880590527
+      Data4: -238156835
+    Path: event:/MUSIC/tracks
   Event: 
   EventPlayTrigger: 1
   EventStopTrigger: 0
@@ -7208,9 +7229,9 @@ MonoBehaviour:
   Preload: 0
   NonRigidbodyVelocity: 0
   Params: []
-  OverrideAttenuation: 0
-  OverrideMinDistance: 1
-  OverrideMaxDistance: 20
+  OverrideAttenuation: 1
+  OverrideMinDistance: 12.71
+  OverrideMaxDistance: 26.82
 --- !u!135 &1990873477
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -7298,7 +7319,7 @@ Transform:
   m_GameObject: {fileID: 1990873475}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 17.422058, y: 0.70003986, z: -3.2902832}
+  m_LocalPosition: {x: 13.367, y: 0.22, z: 1.045}
   m_LocalScale: {x: 0.32827, y: 0.32827, z: 0.32827}
   m_ConstrainProportionsScale: 0
   m_Children: []
