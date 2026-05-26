@@ -44,7 +44,7 @@ public class Outside_foot_switch : MonoBehaviour
                 ToggleSnapshot(true);
             }
             // Wyłącza snapshot, jeśli gracz jest wewnątrz, a snapshot jest aktywny.
-            else if ((tag == "Outside" || tag == "Stone") && snapshotActivated)
+            else if (tag == "Stone" && snapshotActivated)
             {
                 ToggleSnapshot(false);
             }
@@ -59,6 +59,7 @@ public class Outside_foot_switch : MonoBehaviour
     {
         if (activate)
         {
+            Debug.Log("Works");
             // Tworzy i startuje instancję snapshotu.
             outsideSnapshotInstance = FMODUnity.RuntimeManager.CreateInstance(outsideSnapshot);
             outsideSnapshotInstance.start();

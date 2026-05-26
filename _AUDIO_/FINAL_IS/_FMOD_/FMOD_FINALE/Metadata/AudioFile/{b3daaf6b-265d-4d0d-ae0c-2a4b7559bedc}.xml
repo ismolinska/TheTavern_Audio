@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{b3daaf6b-265d-4d0d-ae0c-2a4b7559bedc}">
+		<property name="assetPath">
+			<value>dragon-studio-open-door-stock-sfx-454246.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.52</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{2615113a-71e0-4e13-977d-786e38be8d0e}</destination>
+		</relationship>
+	</object>
+</objects>

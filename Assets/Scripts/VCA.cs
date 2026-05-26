@@ -12,6 +12,7 @@ public class VCA : MonoBehaviour
     private FMOD.Studio.VCA musicVCA;
     private FMOD.Studio.VCA tavernVCA;
     private FMOD.Studio.VCA outsideVCA;
+    private FMOD.Studio.VCA footstepsVCA;
 
     // Flagi stanu wyciszenia.
     [SerializeField]
@@ -22,14 +23,17 @@ public class VCA : MonoBehaviour
     private bool tavernMuteActive = false;
     [SerializeField]
     private bool outsideMuteActive = false;
+    [SerializeField]
+    private bool footstepsMuteActive = false;
 
     void Start()
     {
         // Pobiera VCAs z FMOD.
-        globalVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Mute");
-        musicVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Music");
-        tavernVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Tavern_amb");
-        outsideVCA = FMODUnity.RuntimeManager.GetVCA("vca:/Outside_amb");
+        globalVCA = FMODUnity.RuntimeManager.GetVCA("vca:/GLOBAL MUTE");
+        musicVCA = FMODUnity.RuntimeManager.GetVCA("vca:/MUSIC");
+        tavernVCA = FMODUnity.RuntimeManager.GetVCA("vca:/TAVERN AMB");
+        outsideVCA = FMODUnity.RuntimeManager.GetVCA("vca:/OUTSIDE");
+        footstepsVCA = FMODUnity.RuntimeManager.GetVCA("vca:/FOOTSTEPS");
 
         // Ustawia początkową głośność.
         globalVCA.setVolume(DecibelToLinear(-100));
@@ -54,6 +58,11 @@ public class VCA : MonoBehaviour
         {
             ToggleMute(outsideVCA, ref outsideMuteActive);
         }
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            ToggleMute(footstepsVCA, ref footstepsMuteActive);
+        }
+
     }
 
     /// <summary>

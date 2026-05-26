@@ -35,7 +35,7 @@ public class Doors : MonoBehaviour, IInteractable
             doorsOpened = !doorsOpened;
             StartCoroutine(RotateDoors(doorsOpened ? -65 : 65));
             PlaySound();
-            RoomsSnap();
+            //RoomsSnap();
         }
     }
 
@@ -77,8 +77,8 @@ public class Doors : MonoBehaviour, IInteractable
         doorsSoundInstance.set3DAttributes(RuntimeUtils.To3DAttributes(gameObject.transform));
         
         // Ustawia parametr "Doors" w zależności od stanu drzwi.
-        string parameterLabel = doorsOpened ? "Open" : "Close";
-        doorsSoundInstance.setParameterByNameWithLabel("Doors", parameterLabel);
+        string parameterLabel = doorsOpened ? "OPEN" : "CLOSE";
+        doorsSoundInstance.setParameterByNameWithLabel("Door_open_close", parameterLabel);
         
         doorsSoundInstance.start();
     }

@@ -719,6 +719,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 1330636291972076, guid: cb181bc6c302bca40929333077286a04, type: 3}
       insertIndex: -1
       addedObject: {fileID: 159108037}
+    - targetCorrespondingSourceObject: {fileID: 1742205292912966, guid: cb181bc6c302bca40929333077286a04, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1388436684}
+    - targetCorrespondingSourceObject: {fileID: 1870896476324792, guid: cb181bc6c302bca40929333077286a04, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1395806269}
+    - targetCorrespondingSourceObject: {fileID: 1878543480056916, guid: cb181bc6c302bca40929333077286a04, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1915568209}
   m_SourcePrefab: {fileID: 100100000, guid: cb181bc6c302bca40929333077286a04, type: 3}
 --- !u!1 &159108029 stripped
 GameObject:
@@ -2361,6 +2370,7 @@ GameObject:
   - component: {fileID: 613997989}
   - component: {fileID: 613997994}
   - component: {fileID: 613997995}
+  - component: {fileID: 613997996}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -2591,6 +2601,23 @@ MonoBehaviour:
       Data3: -1033217126
       Data4: 1002970183
     Path: snapshot:/New Snapshot
+--- !u!114 &613997996
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 613997984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68f4ed2e91580f4459a40df16f56ba56, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::VCA
+  globalMuteActive: 1
+  musicMuteActive: 0
+  tavernMuteActive: 0
+  outsideMuteActive: 0
+  footstepsMuteActive: 0
 --- !u!1 &688602384
 GameObject:
   m_ObjectHideFlags: 0
@@ -4402,6 +4429,74 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 4300000, guid: 23321a0f20f9e894594a24d899b521fd, type: 3}
+--- !u!1 &1388436679 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1742205292912966, guid: cb181bc6c302bca40929333077286a04, type: 3}
+  m_PrefabInstance: {fileID: 159108028}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1388436684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1388436679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a3acf8d75e1714f8433f67364d416a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Doors
+  rotationDuration: 1
+  doorsOpened: 1
+  isRotating: 0
+  doorsEvent:
+    Guid:
+      Data1: -2039091080
+      Data2: 1320248841
+      Data3: 240328627
+      Data4: -950190273
+    Path: event:/Door
+  insideRoomSnap:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
+--- !u!1 &1395806264 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1870896476324792, guid: cb181bc6c302bca40929333077286a04, type: 3}
+  m_PrefabInstance: {fileID: 159108028}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1395806269
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1395806264}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a3acf8d75e1714f8433f67364d416a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Doors
+  rotationDuration: 1
+  doorsOpened: 1
+  isRotating: 0
+  doorsEvent:
+    Guid:
+      Data1: -2039091080
+      Data2: 1320248841
+      Data3: 240328627
+      Data4: -950190273
+    Path: event:/Door
+  insideRoomSnap:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
 --- !u!1 &1407417057
 GameObject:
   m_ObjectHideFlags: 0
@@ -4686,7 +4781,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: Audio menu\nGlobal mute - U\nMusic mute - I\nTavern mute - O\nOutside Mute
-    - P\nHealth - K
+    - P\nFootsteps Mute - K
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
   m_sharedMaterial: {fileID: 2140474, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
@@ -6809,6 +6904,40 @@ Transform:
   m_Children: []
   m_Father: {fileID: 2131066730}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1915568204 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1878543480056916, guid: cb181bc6c302bca40929333077286a04, type: 3}
+  m_PrefabInstance: {fileID: 159108028}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1915568209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1915568204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0a3acf8d75e1714f8433f67364d416a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Doors
+  rotationDuration: 1
+  doorsOpened: 1
+  isRotating: 0
+  doorsEvent:
+    Guid:
+      Data1: -2039091080
+      Data2: 1320248841
+      Data3: 240328627
+      Data4: -950190273
+    Path: event:/Door
+  insideRoomSnap:
+    Guid:
+      Data1: 0
+      Data2: 0
+      Data3: 0
+      Data4: 0
+    Path: 
 --- !u!1001 &1952063277
 PrefabInstance:
   m_ObjectHideFlags: 0
